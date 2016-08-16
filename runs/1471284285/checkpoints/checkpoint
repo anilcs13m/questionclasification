@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/preetam/Downloads/final/runs/1471284285/checkpoints/model-3200"
+all_model_checkpoint_paths: "/home/preetam/Downloads/final/runs/1471284285/checkpoints/model-2800"
+all_model_checkpoint_paths: "/home/preetam/Downloads/final/runs/1471284285/checkpoints/model-2900"
+all_model_checkpoint_paths: "/home/preetam/Downloads/final/runs/1471284285/checkpoints/model-3000"
+all_model_checkpoint_paths: "/home/preetam/Downloads/final/runs/1471284285/checkpoints/model-3100"
+all_model_checkpoint_paths: "/home/preetam/Downloads/final/runs/1471284285/checkpoints/model-3200"

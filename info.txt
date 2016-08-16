@@ -1,0 +1,8 @@
+use references:-  
+				https://github.com/dennybritz/cnn-text-classification-tf
+				http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow
+
+
+This directory contain pre-train model in runs or you can train running "taining_model.py"
+for testing run testing_model.py and will ask for enter question?
+ 
