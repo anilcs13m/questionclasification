@@ -23,3 +23,4 @@ python testing_model.py
 ## References
 
 - [Text classification](https://github.com/dennybritz/cnn-text-classification-tf)
+- [Data Download](http://cogcomp.cs.illinois.edu/Data/QA/QC/train_1000.label)
