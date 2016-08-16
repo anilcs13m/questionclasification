@@ -6,7 +6,7 @@
 
 ## Keep all the file and directory in the same directory 
 
-## Training
+## Training(optional)
 If required, this directory already contain a pre-train model you can directly evaluate the model
 ```
 python training_model.py
